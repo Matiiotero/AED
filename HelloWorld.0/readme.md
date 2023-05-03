@@ -1,3 +1,3 @@
-- Version del Compilador 
+ Version del Compilador 
 
-◉ GCC GNU Compiler
+  ◉ GCC GNU Compiler
